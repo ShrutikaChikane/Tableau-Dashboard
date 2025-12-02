@@ -10,3 +10,6 @@ This project strengthened my skills in:
  Dashboard design 
  HR data exploration
  Insight generation for strategic decisions
+
+# Dashboard Screenshot
+https://github.com/ShrutikaChikane/Tableau-Dashboard/commit/4ab49edd004e3085cd1ebac789f6f7b28203d082
